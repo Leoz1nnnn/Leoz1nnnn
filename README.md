@@ -1,28 +1,27 @@
-<h2 align="left">Hi 👋! My name is Leonardo de Almeida Cardoso , from Brazil</h2>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leoz1nnnn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Leoz1nnnn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDN3aDA3cHBybmVxOTF2Y3k3YXhtanV5a2Y2Mzlnd29kcXhocWE3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W23QYxLYjRp87yFlFC/giphy.gif"  />
+<div align="center">
+  <img height="690" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=1080&crop=smart&auto=webp&s=79e43e61455bc523307e1ba9284a4afaaae951c5"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.instagram.com/leonardo.almeid4/" target="_blank">
@@ -35,3 +34,8 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Leoz1nnnn/count.svg?"  />
+</div>
+
+###
